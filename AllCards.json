@@ -28,6 +28,7 @@
    "Health": 8,
    "ManaFragments": 0,
    "Text": "SIPHON 3.",
+   "FlavorText": "Twice cursed by the gods of Chaos and Order, she was damned in eternal service to Death.",
    "IsGiant": false
  },
  {
@@ -41,6 +42,7 @@
    "Health": 5,
    "ManaFragments": 0,
    "Text": "When you discard a card, randomly grant FLIGHT, RANGE, BLIGHT, or +2/+2.",
+   "FlavorText": "Solanys help us all if that thing learns how to self-replicate.” – Chief Engineer Bromell",
    "IsGiant": false
  },
  {
@@ -54,6 +56,7 @@
    "Health": 5,
    "ManaFragments": 0,
    "Text": "BLIGHT. While this Champion is in play, grant all non-Grim Vision ally units RESPAWN 1/1 Grim Vision.",
+   "FlavorText": "Having the will to overcome death is a testament to her power. She mocks the laws of the Netherworld by pulling the fallen spirits back.",
    "IsGiant": false
  },
  {
@@ -67,6 +70,7 @@
    "Health": null,
    "ManaFragments": 0,
    "Text": "TRAP: Deal 1 damage to unit and then destroy this fort. Each time a unit dies this damage is increased by 1. ",
+   "FlavorText": "The Graveyard grows in power each time a body is buried. It is a sign of things to come if Stygia has its way.",
    "IsGiant": false
  },
  {
@@ -80,6 +84,7 @@
    "Health": null,
    "ManaFragments": 0,
    "Text": "TRAP: Deal 1 damage to unit.",
+   "FlavorText": "“The forces of Stygia poison the land making it uninhabitable to the living. They must be stopped!” –Tamron Ness, Druid Landwarden",
    "IsGiant": true
  },
  {
